@@ -1,0 +1,52 @@
+[
+    {
+        "username": "Альберт Эйнштейн",
+        "avatarStringURL": "human1",
+        "id": 1
+    },
+    {
+        "username": "Йозя Сталин",
+        "avatarStringURL": "human2",
+        "id": 2
+    },
+    {
+        "username": "Мелкий чел",
+        "avatarStringURL": "human3",
+        "id": 3
+    },
+    {
+        "username": "Мише Лермонтов",
+        "avatarStringURL": "human4",
+        "id": 4
+    },
+    {
+        "username": "Кудряшка",
+        "avatarStringURL": "human5",
+        "id": 5
+    },
+    {
+        "username": "Лев Толстой",
+        "avatarStringURL": "human6",
+        "id": 6
+    },
+    {
+        "username": "Коля Гоголь",
+        "avatarStringURL": "human7",
+        "id": 7
+    },
+    {
+        "username": "Девушка сПерьями",
+        "avatarStringURL": "human8",
+        "id": 8
+    },
+    {
+        "username": "Саня Пушкин",
+        "avatarStringURL": "human9",
+        "id": 9
+    },
+    {
+        "username": "Мона Низя",
+        "avatarStringURL": "human10",
+        "id": 10
+    }
+]
